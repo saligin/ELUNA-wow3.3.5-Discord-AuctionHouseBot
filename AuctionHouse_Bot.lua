@@ -1,3 +1,5 @@
+-- Credits Mithras, Niam5, and ReynoldsCahoon --
+
 local auctionConfig = {
     auctionWebhookURL = "YOUR_WEBHOOK_URL", -- URL вебхука вашего канала Discord
     goldEmojiID       = "<:moneygold:1240899632381431850>", -- ID ваших эмодзи для золота/серебра/меди
